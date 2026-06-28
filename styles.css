@@ -111,10 +111,6 @@ svg {
   line-height: 1.1;
 }
 
-body[data-view="home"] .brand-title {
-  display: none;
-}
-
 .eyebrow {
   margin: 0 0 4px;
   color: var(--teal-dark);

@@ -1,4 +1,4 @@
-# Electrical Math Helper
+# Study Calculator
 
 A phone-first study calculator for Australian electrician apprentice maths.
 
